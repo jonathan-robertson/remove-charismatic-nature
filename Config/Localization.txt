@@ -1,0 +1,2 @@
+Key,File,Type,english
+perkCharismaticNatureName,progression,perk Per,[[ff8000]Disabled by Mod[-]] Charismatic Nature
