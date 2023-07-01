@@ -1,0 +1,6 @@
+<config>
+    <!-- disable charismatic nature -->
+    <set xpath="/progression/perks/perk[@name='perkCharismaticNature']/@max_level">0</set>
+    <remove xpath="/progression/perks/perk[@name='perkCharismaticNature']/level_requirements" />
+    <remove xpath="/progression/perks/perk[@name='perkCharismaticNature']/effect_group" />
+</config>
